@@ -1,5 +1,4 @@
-import React ,{useRef,useMemo} from 'react';
-import logo from './logo.svg';
+import React ,{useRef} from 'react';
 import './App.css';
 
 function App (){
